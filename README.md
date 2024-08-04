@@ -1,4 +1,4 @@
-# AI-ML
+Parkinson's Diasease Detection Model
 Parkinson's disease is a neurodegenerative disorder that affects movement, causing symptoms such as tremors, stiffness, and balance problems. Early detection is crucial for managing the disease and improving the quality of life for those affected. This project aims to develop a machine learning model to detect Parkinson's disease using dataset from Kaggle and implementing a Support Vector Machine (SVM) algorithm in Python.
 
 Key Features: 
